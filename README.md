@@ -17,6 +17,25 @@
 
 ---
 
+
+
+## 📋 Project Overview
+
+LyricSmith is a sophisticated AI-powered songwriting assistant designed for professional musicians, songwriters, and creative artists. The system combines advanced natural language processing with rigorous validation to generate lyrics that meet specific structural requirements including syllable counts, stress patterns, and rhyme schemes.
+
+Built for a music production client, this application demonstrates enterprise-grade software architecture with real-time collaboration features, persistent storage, and comprehensive error handling.
+
+### 🎯 Key Highlights
+
+- **99.9% Validation Accuracy** - Rigorous syllable and rhyme pattern checking
+- **Real-time Generation** - Background task processing with live status updates
+- **Session Management** - Multi-project workspace with automatic persistence
+- **Export Capabilities** - Complete data export for analysis and archival
+- **Production-Ready** - Built with scalability, security, and performance in mind
+
+---
+
+
 ## 🎬 Demo
 
 ### Screenshots
@@ -37,21 +56,6 @@ For a complete walkthrough, check out the demo video: [Recording.mp4](screenshot
 
 ---
 
-## 📋 Project Overview
-
-LyricSmith is a sophisticated AI-powered songwriting assistant designed for professional musicians, songwriters, and creative artists. The system combines advanced natural language processing with rigorous validation to generate lyrics that meet specific structural requirements including syllable counts, stress patterns, and rhyme schemes.
-
-Built for a music production client, this application demonstrates enterprise-grade software architecture with real-time collaboration features, persistent storage, and comprehensive error handling.
-
-### 🎯 Key Highlights
-
-- **99.9% Validation Accuracy** - Rigorous syllable and rhyme pattern checking
-- **Real-time Generation** - Background task processing with live status updates
-- **Session Management** - Multi-project workspace with automatic persistence
-- **Export Capabilities** - Complete data export for analysis and archival
-- **Production-Ready** - Built with scalability, security, and performance in mind
-
----
 
 ## ✨ Features
 
