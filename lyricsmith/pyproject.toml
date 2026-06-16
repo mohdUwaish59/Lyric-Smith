@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lyricsmith"
+version = "0.3.0"
+description = "Phonetic validation + LLM generation loop for songwriting to a fixed melody"
+requires-python = ">=3.8"
+dependencies = ["pronouncing>=0.2.0"]
+
+[project.optional-dependencies]
+g2p = ["g2p_en>=2.1.0"]
+
+[tool.setuptools]
+packages = ["lyricsmith"]

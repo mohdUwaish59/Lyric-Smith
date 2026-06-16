@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: lyricsmith
+Version: 0.3.0
+Summary: Phonetic validation + LLM generation loop for songwriting to a fixed melody
+Requires-Python: >=3.8
+Requires-Dist: pronouncing>=0.2.0
+Provides-Extra: g2p
+Requires-Dist: g2p_en>=2.1.0; extra == "g2p"

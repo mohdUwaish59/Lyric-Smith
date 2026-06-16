@@ -1,0 +1,4 @@
+pronouncing>=0.2.0
+
+[g2p]
+g2p_en>=2.1.0

@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "exportedAt": "2026-06-13T10:30:00.000Z",
+    "generatedAt": "2026-06-13T10:25:00.000Z",
+    "messageId": "1718273100000-abc123"
+  },
+  "input": {
+    "sectionName": "verse1",
+    "rhymeScheme": "AABB",
+    "strictness": "sung",
+    "lines": [
+      {
+        "lineNumber": 1,
+        "meaning": "walking down the empty street at night",
+        "syllables": 10,
+        "stress": null,
+        "rhymeLabel": "A"
+      },
+      {
+        "lineNumber": 2,
+        "meaning": "the city lights are shining bright",
+        "syllables": 8,
+        "stress": null,
+        "rhymeLabel": "A"
+      },
+      {
+        "lineNumber": 3,
+        "meaning": "my heart is feeling kind of blue",
+        "syllables": 8,
+        "stress": null,
+        "rhymeLabel": "B"
+      },
+      {
+        "lineNumber": 4,
+        "meaning": "thinking only about you",
+        "syllables": 7,
+        "stress": null,
+        "rhymeLabel": "B"
+      }
+    ]
+  },
+  "output": {
+    "successCount": 2,
+    "totalLines": 4,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "generated": null,
+        "status": "FAIL",
+        "attempts": 32,
+        "problems": [
+          "syllable_count",
+          "stress_pattern"
+        ]
+      },
+      {
+        "lineNumber": 2,
+        "generated": "In neon dreams, the streets ignite",
+        "status": "PASS",
+        "attempts": 1,
+        "problems": []
+      },
+      {
+        "lineNumber": 3,
+        "generated": "In twilight shadows, I feel down",
+        "status": "PASS",
+        "attempts": 1,
+        "problems": []
+      },
+      {
+        "lineNumber": 4,
+        "generated": null,
+        "status": "FAIL",
+        "attempts": 32,
+        "problems": [
+          "rhyme_matching"
+        ]
+      }
+    ]
+  }
+}
