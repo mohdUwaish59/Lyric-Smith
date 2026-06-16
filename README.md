@@ -17,6 +17,26 @@
 
 ---
 
+## 🎬 Demo
+
+### Screenshots
+
+<div align="center">
+
+![LyricSmith Interface](screenshots/Screenshot1.png)
+*Main interface showing the session sidebar and lyric generation workflow*
+
+![Generated Lyrics](screenshots/Screenshot2.png)
+*Results view with validation status and export functionality*
+
+</div>
+
+### Video Demo
+
+For a complete walkthrough, check out the demo video: [Recording.mp4](screenshots/Recording.mp4)
+
+---
+
 ## 📋 Project Overview
 
 LyricSmith is a sophisticated AI-powered songwriting assistant designed for professional musicians, songwriters, and creative artists. The system combines advanced natural language processing with rigorous validation to generate lyrics that meet specific structural requirements including syllable counts, stress patterns, and rhyme schemes.
@@ -87,7 +107,7 @@ Built for a music production client, this application demonstrates enterprise-gr
 
 ---
 
-## 🎬 Demo
+
 
 ### Main Interface
 ```
