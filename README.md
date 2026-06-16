@@ -1,4 +1,4 @@
-# 🎵 LyricSmith - AI-Powered Songwriting Assistant
+div# 🎵 LyricSmith - AI-Powered Songwriting Assistant
 
 <div align="center">
 
@@ -52,7 +52,15 @@ Built for a music production client, this application demonstrates enterprise-gr
 
 ### Video Demo
 
-For a complete walkthrough, check out the demo video: [Recording.mp4](screenshots/Recording.mp4)
+<div align="center">
+
+<video src="screenshots/Recording.mp4" controls width="800">
+  Your browser does not support the video tag. <a href="screenshots/Recording.mp4">Download the demo video</a>
+</video>
+
+*Complete walkthrough of LyricSmith's features and workflow*
+
+</div>
 
 ---
 
