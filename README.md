@@ -521,7 +521,7 @@ This project was developed as custom software for a client. All rights reserved.
 
 ## 👨‍💻 Developer
 
-**[Your Name]**  
+**Mohd Uwaish**  
 Full-Stack Developer | AI/ML Specialist
 
 **Skills Demonstrated:**
@@ -533,11 +533,6 @@ Full-Stack Developer | AI/ML Specialist
 - AI/ML integration
 - Production deployment
 
-**Connect:**
-- 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#)
-- 📧 [Email](#)
-- 💻 [GitHub](#)
 
 ---
 
@@ -554,6 +549,5 @@ Full-Stack Developer | AI/ML Specialist
 
 **⭐ If you found this project impressive, please consider starring it on GitHub! ⭐**
 
-Made with ❤️ by [Your Name]
-
+Made with ❤️ by Mohd Uwaish
 </div>

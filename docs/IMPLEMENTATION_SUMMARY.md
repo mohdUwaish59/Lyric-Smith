@@ -299,10 +299,10 @@ songs
 
 ## 📝 Documentation Files
 
-- **QUICK_START.md** - Step-by-step setup guide
-- **DATABASE_SETUP.md** - Database configuration details
-- **EXPORT_FEATURE.md** - Export functionality usage
-- **IMPLEMENTATION_SUMMARY.md** - This comprehensive overview
+- **docs/QUICK_START.md** - Step-by-step setup guide
+- **docs/DATABASE_SETUP.md** - Database configuration details
+- **docs/EXPORT_FEATURE.md** - Export functionality usage
+- **docs/IMPLEMENTATION_SUMMARY.md** - This comprehensive overview
 
 ---
 
